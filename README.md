@@ -10,13 +10,14 @@ A Cup of Sugar, like it's name implies is a streamlined, easy to use Python base
 When the Ternary Operators were formed, they had one goal in mind. To create something that could make someone's life a little better. In a moment of inspiration, Danny, one of the founding members of the Ternary Operators thought of a way to bring people together that are in need with those willing to lend a hand. With this vision in mind the Ternary Operators set out to make this moment a reality.
 
 ## **Screenshots**
-![Landing Page](https://i.imgur.com/MlLUjEU.png)
+![Landing Page](https://imgur.com/rtrSpUW.png)
 ![Profile Creation Page](https://i.imgur.com/XfSQo45.png)
-![Add Cup](https://i.imgur.com/6KxvWYC.png)
-![Upload Image](https://i.imgur.com/cN3V5ct.png)
-![Edit Cup](https://i.imgur.com/s4hgQjF.png)
-![Delete Cup](https://i.imgur.com/cN8nsEk.png)
-![All Chats](https://i.imgur.com/9RUY7YD.png)
+![Add Cup](https://i.imgur.com/4Zbaw4G.png)
+![Edit Cup](https://i.imgur.com/xAUfwea.png)
+![Cups Index](https://i.imgur.com/x3c7KHH.png)
+![View Cup](https://i.imgur.com/n8EpaKJ.png)
+![Chats Index](https://i.imgur.com/ZGRN2GR.png)
+![Chat View](https://i.imgur.com/xveMwmt.png)
 
 ## **Technologies Used**
 
@@ -29,6 +30,7 @@ When the Ternary Operators were formed, they had one goal in mind. To create som
 ![Github](https://i.imgur.com/7LyflRV.png)
 ![Git](https://i.imgur.com/uA6xQMO.png)
 ![Heroku](https://i.imgur.com/jS7vfhC.jpg)
+
 1. Python
 2. Django
 3. HTML5
@@ -38,19 +40,22 @@ When the Ternary Operators were formed, they had one goal in mind. To create som
 7. Github
 8. Git
 9. Heroku
-10. Django template language
+10. DTL
 
 
--**The Good Stuff**
-    - [Link to Github](https://github.com/skimalee/cup-of-sugar)
-    - [Link to Heroku](https://cup-o-sugar.herokuapp.com)
-    - [Link to Trello](https://trello.com/b/ZQiZX0Sl/cup-of-sugar)
-    - [Link to pitch deck](https://drive.google.com/file/d/1c89P00TVdw-Nqty0L5bC9RIObVNKEbeR/view)
+**The Good Stuff**
+
+[Check out project on Github](https://github.com/chasmad/cup-of-sugar)
+
+[Link to Web App](https://cup-o-sugar.herokuapp.com)
+
+[View our Trello](https://trello.com/b/ZQiZX0Sl/cup-of-sugar)
+
+[View our pitch deck](https://drive.google.com/file/d/1c89P00TVdw-Nqty0L5bC9RIObVNKEbeR/view)
 
 ## **Planned future enhancements**
 - Google Maps API
--User Ratings
--Search
--User reporting
--Show all cups user has filled
--Choose which user fills which cup
+- User Ratings
+- Search
+- User reporting
+- Track filled cups
