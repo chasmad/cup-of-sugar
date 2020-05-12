@@ -45,13 +45,13 @@ When the Ternary Operators were formed, they had one goal in mind. To create som
 
 **The Good Stuff**
 
-[Check out project on Github](https://github.com/chasmad/cup-of-sugar)
+[Click to launch Cup of Sugar](https://cup-o-sugar.herokuapp.com)
 
-[Link to Web App](https://cup-o-sugar.herokuapp.com)
+[Click for our repo on Github](https://github.com/chasmad/cup-of-sugar)
 
-[View our Trello](https://trello.com/b/ZQiZX0Sl/cup-of-sugar)
+[Click to view our Trello Board](https://trello.com/b/ZQiZX0Sl/cup-of-sugar)
 
-[View our pitch deck](https://drive.google.com/file/d/1c89P00TVdw-Nqty0L5bC9RIObVNKEbeR/view)
+[Click to view our Pitch Deck](https://drive.google.com/file/d/1c89P00TVdw-Nqty0L5bC9RIObVNKEbeR/view)
 
 ## **Planned future enhancements**
 - Google Maps API
